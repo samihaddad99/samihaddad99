@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samihaddad99
 - 👀 I’m interested in Low-Level Programming such as C and Assembly
 - 🌱 I’m currently learning how to make a website with Heroku/Node.JS and React.JS
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - <a href="https://github.com/samihaddad99/CalculatorApplication">✨ Checkout my Calculator Application (UWP/C#)</a>
 - 📫 How to reach me haddad0@sheridancollege.ca
 
