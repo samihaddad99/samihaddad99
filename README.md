@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samihaddad99
+<h1>👋 Hi, I’m @samihaddad99</h1>
 - 👀 I’m interested in Low-Level Programming such as C and Assembly
 - 🌱 I’m currently learning how to make a website with Heroku/Node.JS and React.JS
 <caption>This is a list of my GitHub Projects:</caption>
