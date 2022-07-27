@@ -6,7 +6,7 @@
 <ul>
 <li><a href="https://github.com/samihaddad99/CalculatorApplication">Calculator Application (UWP/C#)</a></li>
 <li><a href="https://github.com/samihaddad99/WebcamTracking">Webcam Tracking Application (WPF/C#)</a></li>
-<li><a href="https://github.com/samihaddad99/Pong">Pong Game Recreation (WPF/C#)</a></li>
+<li><a href="https://github.com/samihaddad99/Pong">Pong Game Recreation (Python)</a></li>
 </ul>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
