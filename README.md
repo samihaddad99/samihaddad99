@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m @samihaddad99</h1>
 <p>- 👀 I’m interested in Low-Level Programming such as C and Assembly</p>
-<p>- 🌱 I’m currently learning how to make a website with Heroku/Node.JS and React.JS</p>
+<p>- 🌱 I’m currently working on my <a href="https://app.netlify.com/sites/calm-smakager-8c6d81/overview">personal website with React.JS and BootStrap</a></p>
 <p>- 📫 How to reach me haddad0@sheridancollege.ca</p>
 <caption>This is a list of my GitHub Projects:</caption>
 <ul>
