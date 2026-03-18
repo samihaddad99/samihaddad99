@@ -1,6 +1,5 @@
 <h1>👋 Hi, I’m @samihaddad99</h1>
 <p>- 👀 I’m interested in Low-Level Programming such as C and Assembly</p>
-<p>- 🌱 I’m currently working on my <a href="https://github.com/samihaddad99/PERNWebsite">personal website with PERN stack</a></p>
 <p>- 📫 How to reach me haddad0@sheridancollege.ca</p>
 <p> - 💞️ <a href="https://github.com/samihaddad99/PERNWebsite">Check out my website here!</a></p>
 <caption>This is a list of my GitHub Projects:</caption>
